@@ -1,31 +1,31 @@
-u..\DMTApex.rdrprojv‚ð‘fÞ‚Æ‚µ‚Ä—˜—p‚·‚é
+ã€Œ..\DMTApex.rdrprojã€ã‚’ç´ æã¨ã—ã¦åˆ©ç”¨ã™ã‚‹
 
-ƒAƒvƒŠ‚Æ‚Í
+ã‚¢ãƒ—ãƒªã¨ã¯
 	
-	+ƒo[ƒWƒ‡ƒ“
-	+“à•”ƒo[ƒWƒ‡ƒ“
-	+“à•”ƒo[ƒWƒ‡ƒ“”Ô†
-	+ˆø”
-	+ƒRƒ“ƒtƒBƒOƒtƒHƒ‹ƒ_[
-	+DMTƒ_ƒEƒ“ƒ[ƒhURL
+	+ãƒãƒ¼ã‚¸ãƒ§ãƒ³
+	+å†…éƒ¨ãƒãƒ¼ã‚¸ãƒ§ãƒ³
+	+å†…éƒ¨ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç•ªå·
+	+å¼•æ•°
+	+ã‚³ãƒ³ãƒ•ã‚£ã‚°ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼
+	+DMTãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰URL
 	
-	‚Í‚¶‚ß‚ÌŽè‡
-		// ƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹‚©‚çƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ìî•ñ‚ðŽæ“¾
-		yƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹z=XML‚Å[‘fÞƒŠƒXƒg‚©‚çuDMTApex.rdrprojv‚ð•¶Žš—ñ‚Æ‚µ‚ÄŽæ“¾‚µ‚½‚à‚Ì]‚©‚çì¬‚µ‚½‚à‚Ì
-		ƒvƒƒOƒ‰ƒ€‚Ìƒ^ƒCƒgƒ‹=[ƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹‚ÌuƒvƒƒWƒFƒNƒgv‚Ìu–¼‘Ov‚Ì“à—e]
-		yƒo[ƒWƒ‡ƒ“”z—ñz
-		[ƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹‚©‚çuƒvƒƒWƒFƒNƒgv‚ðŽæ“¾‚µ‚½‚à‚Ì]‚ðy—v‘fz‚Ö‚»‚ê‚¼‚êŒJ‚è•Ô‚·
-			ƒo[ƒWƒ‡ƒ“”z—ñ=—v‘f‚Ìuƒo[ƒWƒ‡ƒ“v‚Ìu’lv‚Ì“à—e‚ðu.v‚Å‹æØ‚Á‚½‚à‚Ì
-		ŒJ‚è•Ô‚µI‚í‚è
-		ƒo[ƒWƒ‡ƒ“=u[ƒo[ƒWƒ‡ƒ“”z—ñ(1)].[ƒo[ƒWƒ‡ƒ“”z—ñ(2)].[ƒo[ƒWƒ‡ƒ“”z—ñ(3)]v
-			ƒo[ƒWƒ‡ƒ“”z—ñ(2)=ƒo[ƒWƒ‡ƒ“”z—ñ(2)‚ð2Œ…‚É®‚¦‚½‚à‚Ì
-			ƒo[ƒWƒ‡ƒ“”z—ñ(3)=ƒo[ƒWƒ‡ƒ“”z—ñ(3)‚ð2Œ…‚É®‚¦‚½‚à‚Ì
-		“à•”ƒo[ƒWƒ‡ƒ“”Ô†=u[ƒo[ƒWƒ‡ƒ“”z—ñ(1)][ƒo[ƒWƒ‡ƒ“”z—ñ(2)][ƒo[ƒWƒ‡ƒ“”z—ñ(3)]v
-		“à•”ƒŠƒŠ[ƒXƒo[ƒWƒ‡ƒ“=ƒo[ƒWƒ‡ƒ“”z—ñ(4) // ––”ö¨1=test.private 2=test.public 3=release.private 4=release.public
-		“à•”ƒo[ƒWƒ‡ƒ“=u[“à•”ƒo[ƒWƒ‡ƒ“”Ô†].[“à•”ƒŠƒŠ[ƒXƒo[ƒWƒ‡ƒ“]v
+	ã¯ã˜ã‚ã®æ‰‹é †
+		// ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã®æƒ…å ±ã‚’å–å¾—
+		ã€ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã€‘=XMLã§[ç´ æãƒªã‚¹ãƒˆã‹ã‚‰ã€ŒDMTApex.rdrprojã€ã‚’æ–‡å­—åˆ—ã¨ã—ã¦å–å¾—ã—ãŸã‚‚ã®]ã‹ã‚‰ä½œæˆã—ãŸã‚‚ã®
+		ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ã‚¿ã‚¤ãƒˆãƒ«=[ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã®ã€Œãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€ã®ã€Œåå‰ã€ã®å†…å®¹]
+		ã€ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—ã€‘
+		[ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ã€Œãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€ã‚’å–å¾—ã—ãŸã‚‚ã®]ã‚’ã€è¦ç´ ã€‘ã¸ãã‚Œãžã‚Œç¹°ã‚Šè¿”ã™
+			ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—=è¦ç´ ã®ã€Œãƒãƒ¼ã‚¸ãƒ§ãƒ³ã€ã®ã€Œå€¤ã€ã®å†…å®¹ã‚’ã€Œ.ã€ã§åŒºåˆ‡ã£ãŸã‚‚ã®
+		ç¹°ã‚Šè¿”ã—çµ‚ã‚ã‚Š
+		ãƒãƒ¼ã‚¸ãƒ§ãƒ³=ã€Œ[ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(1)].[ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(2)]-[ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(3)]ã€
+			ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(2)=ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(2)ã‚’2æ¡ã«æ•´ãˆãŸã‚‚ã®
+			ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(3)=ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(3)ã‚’2æ¡ã«æ•´ãˆãŸã‚‚ã®
+		å†…éƒ¨ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç•ªå·=ã€Œ[ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(1)][ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(2)][ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(3)]ã€
+		å†…éƒ¨ãƒªãƒªãƒ¼ã‚¹ãƒãƒ¼ã‚¸ãƒ§ãƒ³=ãƒãƒ¼ã‚¸ãƒ§ãƒ³é…åˆ—(4) // æœ«å°¾â†’1=test.private 2=test.public 3=release.private 4=release.public
+		å†…éƒ¨ãƒãƒ¼ã‚¸ãƒ§ãƒ³=ã€Œ[å†…éƒ¨ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç•ªå·].[å†…éƒ¨ãƒªãƒªãƒ¼ã‚¹ãƒãƒ¼ã‚¸ãƒ§ãƒ³]ã€
 		
-		ƒRƒ“ƒtƒBƒOƒtƒHƒ‹ƒ_[=u[ƒ}ƒCƒhƒLƒ…ƒƒ“ƒg][ƒvƒƒOƒ‰ƒ€‚Ìƒ^ƒCƒgƒ‹]\v
+		ã‚³ãƒ³ãƒ•ã‚£ã‚°ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼=ã€Œ[ãƒžã‚¤ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ][ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ã‚¿ã‚¤ãƒˆãƒ«]\ã€
 		
-		DMTƒ_ƒEƒ“ƒ[ƒhURL=uhttp://dualmonitortool.sourceforge.net/download.htmlv
-	I‚í‚è
-I‚í‚è
+		DMTãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰URL=ã€Œhttp://dualmonitortool.sourceforge.net/download.htmlã€
+	çµ‚ã‚ã‚Š
+çµ‚ã‚ã‚Š
