@@ -1,300 +1,300 @@
-ƒRƒ“ƒtƒBƒOƒ`ƒFƒbƒN‚·‚é
+ã‚³ãƒ³ãƒ•ã‚£ã‚°ãƒã‚§ãƒƒã‚¯ã™ã‚‹
 
-ƒƒCƒ“‰æ–Ê‚ð•\Ž¦‚·‚é
+ãƒ¡ã‚¤ãƒ³ç”»é¢ã‚’è¡¨ç¤ºã™ã‚‹
 
-‘Ò‹@‚·‚é
+å¾…æ©Ÿã™ã‚‹
 
-ƒRƒ“ƒtƒBƒOƒ`ƒFƒbƒN‚·‚éŽè‡
-	‚à‚µu[ƒAƒvƒŠ‚ÌƒRƒ“ƒtƒBƒOƒtƒHƒ‹ƒ_[]v‚Æ‚¢‚¤ƒtƒHƒ‹ƒ_‚ª‘¶Ý‚µ‚È‚¢‚È‚çu[ƒ}ƒCƒhƒLƒ…ƒƒ“ƒg]v‚Öu[ƒvƒƒOƒ‰ƒ€‚Ìƒ^ƒCƒgƒ‹]v‚Æ‚¢‚¤ƒtƒHƒ‹ƒ_‚ðì¬‚·‚é
+ã‚³ãƒ³ãƒ•ã‚£ã‚°ãƒã‚§ãƒƒã‚¯ã™ã‚‹æ‰‹é †
+	ã‚‚ã—ã€Œ[ã‚¢ãƒ—ãƒªã®ã‚³ãƒ³ãƒ•ã‚£ã‚°ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼]ã€ã¨ã„ã†ãƒ•ã‚©ãƒ«ãƒ€ãŒå­˜åœ¨ã—ãªã„ãªã‚‰ã€Œ[ãƒžã‚¤ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ]ã€ã¸ã€Œ[ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ã‚¿ã‚¤ãƒˆãƒ«]ã€ã¨ã„ã†ãƒ•ã‚©ãƒ«ãƒ€ã‚’ä½œæˆã™ã‚‹
 	
-	ƒƒCƒ“Ý’è‚Æ‚¢‚¤Ý’èƒtƒ@ƒCƒ‹‚ðì‚é
-	ƒƒCƒ“Ý’è‚Ìƒtƒ@ƒCƒ‹–¼=u[ƒAƒvƒŠ‚ÌƒRƒ“ƒtƒBƒOƒtƒHƒ‹ƒ_[]Config.iniv
-	ƒƒCƒ“Ý’è‚É‚Â‚¢‚ÄuInfov‚ÅuVersionv‚Ö[ƒAƒvƒŠ‚Ìƒo[ƒWƒ‡ƒ“]‚ðÝ’è‚·‚é
-	ƒƒCƒ“Ý’è‚É‚Â‚¢‚ÄuInfov‚ÅuInternalVersionv‚Ö[ƒAƒvƒŠ‚Ì“à•”ƒo[ƒWƒ‡ƒ“]‚ðÝ’è‚·‚é
+	ãƒ¡ã‚¤ãƒ³è¨­å®šã¨ã„ã†è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œã‚‹
+	ãƒ¡ã‚¤ãƒ³è¨­å®šã®ãƒ•ã‚¡ã‚¤ãƒ«å=ã€Œ[ã‚¢ãƒ—ãƒªã®ã‚³ãƒ³ãƒ•ã‚£ã‚°ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼]Config.iniã€
+	ãƒ¡ã‚¤ãƒ³è¨­å®šã«ã¤ã„ã¦ã€ŒInfoã€ã§ã€ŒVersionã€ã¸[ã‚¢ãƒ—ãƒªã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³]ã‚’è¨­å®šã™ã‚‹
+	ãƒ¡ã‚¤ãƒ³è¨­å®šã«ã¤ã„ã¦ã€ŒInfoã€ã§ã€ŒInternalVersionã€ã¸[ã‚¢ãƒ—ãƒªã®å†…éƒ¨ãƒãƒ¼ã‚¸ãƒ§ãƒ³]ã‚’è¨­å®šã™ã‚‹
 	
-	‚à‚µ[ƒƒCƒ“Ý’è‚É‚Â‚¢‚ÄuDMTv‚©‚çuPathv‚ðŽæ“¾‚µ‚½‚à‚Ì]‚ª‹ó‚È‚çƒƒCƒ“Ý’è‚É‚Â‚¢‚ÄuDMTv‚ÅuPathv‚ÖuC:\Program Files (x86)\Dual Monitor Tools\DMT.exev‚ðÝ’è‚·‚é
-I‚í‚è
+	ã‚‚ã—[ãƒ¡ã‚¤ãƒ³è¨­å®šã«ã¤ã„ã¦ã€ŒDMTã€ã‹ã‚‰ã€ŒPathã€ã‚’å–å¾—ã—ãŸã‚‚ã®]ãŒç©ºãªã‚‰ãƒ¡ã‚¤ãƒ³è¨­å®šã«ã¤ã„ã¦ã€ŒDMTã€ã§ã€ŒPathã€ã¸ã€ŒC:\Program Files (x86)\Dual Monitor Tools\DMT.exeã€ã‚’è¨­å®šã™ã‚‹
+çµ‚ã‚ã‚Š
 
-ƒƒCƒ“‰æ–Ê‚Æ‚Í
-	ƒEƒBƒ“ƒhƒE‚ðŒp³‚·‚é
+ãƒ¡ã‚¤ãƒ³ç”»é¢ã¨ã¯
+	ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’ç¶™æ‰¿ã™ã‚‹
 	
-	-DMTƒ`ƒFƒbƒNƒ^ƒCƒ}[:ƒ^ƒCƒ}[
-	-Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[:ƒ^ƒCƒ}[
-	-XVƒ^ƒCƒ}[:ƒ^ƒCƒ}[
+	-DMTãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼:ã‚¿ã‚¤ãƒžãƒ¼
+	-Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼:ã‚¿ã‚¤ãƒžãƒ¼
+	-æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼:ã‚¿ã‚¤ãƒžãƒ¼
 	
-	+DMTƒpƒX:•¶Žš—ñ
-	-DMTƒvƒƒZƒX=‹ó
+	+DMTãƒ‘ã‚¹:æ–‡å­—åˆ—
+	-DMTãƒ—ãƒ­ã‚»ã‚¹=ç©º
 	
-	-ƒƒbƒN—LŒø:^‹U’l=~
+	-ãƒ­ãƒƒã‚¯æœ‰åŠ¹:çœŸå½å€¤=Ã—
 	
-	-ApexƒvƒƒZƒXƒƒbƒZ[ƒW:•¶Žš—ñ
-	-ApexƒvƒƒZƒX‹N“®’†:^‹U’l=~
+	-Apexãƒ—ãƒ­ã‚»ã‚¹ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸:æ–‡å­—åˆ—
+	-Apexãƒ—ãƒ­ã‚»ã‚¹èµ·å‹•ä¸­:çœŸå½å€¤=Ã—
 	
-‚Í‚¶‚ß‚ÌŽè‡
-	‰Šú‰»‚·‚é
-	‚±‚Ì“à—e=u[ƒvƒƒOƒ‰ƒ€‚Ìƒ^ƒCƒgƒ‹] | Ver.[ƒAƒvƒŠ‚Ìƒo[ƒWƒ‡ƒ“]v
+ã¯ã˜ã‚ã®æ‰‹é †
+	åˆæœŸåŒ–ã™ã‚‹
+	ã“ã®å†…å®¹=ã€Œ[ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ã‚¿ã‚¤ãƒˆãƒ«] | Ver.[ã‚¢ãƒ—ãƒªã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³]ã€
 	
-	DMTƒpƒXƒpƒlƒ‹‚Ì‚‚³=DMTƒpƒXƒeƒLƒXƒg‚Ì‚‚³
+	DMTãƒ‘ã‚¹ãƒ‘ãƒãƒ«ã®é«˜ã•=DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®é«˜ã•
 	
-	DMTƒ`ƒFƒbƒNƒ^ƒCƒ}[‚Æ‚¢‚¤ƒ^ƒCƒ}[‚ðì‚é
-		‚»‚ÌŠÔŠu=500
-	Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[‚Æ‚¢‚¤ƒ^ƒCƒ}[‚ðì‚é
-		‚»‚ÌŠÔŠu=300
-	XVƒ^ƒCƒ}[‚Æ‚¢‚¤ƒ^ƒCƒ}[‚ðì‚é
-		‚»‚ÌŠÔŠu=500
+	DMTãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã¨ã„ã†ã‚¿ã‚¤ãƒžãƒ¼ã‚’ä½œã‚‹
+		ãã®é–“éš”=500
+	Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã¨ã„ã†ã‚¿ã‚¤ãƒžãƒ¼ã‚’ä½œã‚‹
+		ãã®é–“éš”=300
+	æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼ã¨ã„ã†ã‚¿ã‚¤ãƒžãƒ¼ã‚’ä½œã‚‹
+		ãã®é–“éš”=500
 	
-	[[“\‚è•t‚¯‚½•”•i‚É‘Î‚·‚é‘€ì‚ð‚±‚±‚É‘‚«‚Ü‚·
-I‚í‚è
-	‰Šú‰»‚·‚éŽè‡
-	[[Ž©“®¶¬‚³‚ê‚½Žè‡‚Å‚·B‚±‚±‚ÉƒvƒƒOƒ‰ƒ€‚ð‘‚«‰Á‚¦‚Ä‚àÁ‚¦‚éê‡‚ª‚ ‚è‚Ü‚·
-		‚±‚ÌŽÀŽ¿‘å‚«‚³‚ðo394,341p‚É•Ï‚¦‚é
-		‚±‚ÌŽí—Þ‚ðuŒÅ’èv‚É•Ï‚¦‚é
-		‚±‚ÌÅ‘å‰»ƒ{ƒ^ƒ“‚ð~‚É•Ï‚¦‚é
-		‚±‚Ì‰ŠúˆÊ’u‚ðu’†‰›v‚É•Ï‚¦‚é
-		‚±‚Ì“à—e‚ðuƒƒCƒ“‰æ–Êv‚É•Ï‚¦‚é
-		‚±‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-		‚±‚Ì—]”’‚ðo3p‚É•Ï‚¦‚é
-		‰Šú‰»ŠJŽn‚·‚é
-		ó‘Ôƒ‰ƒxƒ‹‚Æ‚¢‚¤ƒ‰ƒxƒ‹‚ðì‚é
-			‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo3,37,388,158p‚É•Ï‚¦‚é
-			‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9,‘¾Žšv‚É•Ï‚¦‚é
-			‚»‚ÌˆÚ“®‡‚ð3‚É•Ï‚¦‚é
-			‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‘S‘Ìv‚É•Ï‚¦‚é
-			‚»‚Ì—]”’‚ðo3,6,3,6p‚É•Ï‚¦‚é
-		ó‘Ôƒ‰ƒxƒ‹2‚Æ‚¢‚¤ƒ‰ƒxƒ‹‚ðì‚é
-			‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo3,195,388,23p‚É•Ï‚¦‚é
-			‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9,‘¾Žšv‚É•Ï‚¦‚é
-			‚»‚Ì•¶Žš”z’u‚ðu’†‰›v‚É•Ï‚¦‚é
-			‚»‚ÌˆÚ“®‡‚ð4‚É•Ï‚¦‚é
-			‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‰ºv‚É•Ï‚¦‚é
-			‚»‚Ì—]”’‚ðo3p‚É•Ï‚¦‚é
-		ƒpƒlƒ‹1‚Æ‚¢‚¤ƒpƒlƒ‹‚ðì‚é
-			‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo3,218,388,120p‚É•Ï‚¦‚é
-			‚»‚ÌˆÚ“®‡‚ð2‚É•Ï‚¦‚é
-			‚»‚ÌŽ©“®’²®‚ð›‚É•Ï‚¦‚é
-			‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-			‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‰ºv‚É•Ï‚¦‚é
-			—LŒø‰»ƒ{ƒ^ƒ“‚Æ‚¢‚¤ƒ{ƒ^ƒ“‚ðƒpƒlƒ‹1‚Öì‚é
-				‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo0,0,388,40p‚É•Ï‚¦‚é
-				‚»‚Ì“à—e‚ðuŽè“®‚Å—LŒø‰»v‚É•Ï‚¦‚é
-				‚»‚ÌˆÚ“®‡‚ð2‚É•Ï‚¦‚é
-				‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-				‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‰ºv‚É•Ï‚¦‚é
-			–³Œø‰»ƒ{ƒ^ƒ“‚Æ‚¢‚¤ƒ{ƒ^ƒ“‚ðƒpƒlƒ‹1‚Öì‚é
-				‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo0,40,388,40p‚É•Ï‚¦‚é
-				‚»‚Ì“à—e‚ðuŽè“®‚Å–³Œø‰»v‚É•Ï‚¦‚é
-				‚»‚ÌˆÚ“®‡‚ð3‚É•Ï‚¦‚é
-				‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-				‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‰ºv‚É•Ï‚¦‚é
-			Ý’èƒ{ƒ^ƒ“‚Æ‚¢‚¤ƒ{ƒ^ƒ“‚ðƒpƒlƒ‹1‚Öì‚é
-				‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo0,80,388,40p‚É•Ï‚¦‚é
-				‚»‚Ì“à—e‚ðuDMT‚ÌÝ’è‚ðŠJ‚­v‚É•Ï‚¦‚é
-				‚»‚ÌˆÚ“®‡‚ð4‚É•Ï‚¦‚é
-				‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-				‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‰ºv‚É•Ï‚¦‚é
-		DMTƒpƒXƒpƒlƒ‹‚Æ‚¢‚¤ƒpƒlƒ‹‚ðì‚é
-			‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo3,3,388,34p‚É•Ï‚¦‚é
-			‚»‚ÌˆÚ“®‡‚ð5‚É•Ï‚¦‚é
-			‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-			‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðuãv‚É•Ï‚¦‚é
-			DMTƒpƒXƒeƒLƒXƒg‚Æ‚¢‚¤ƒeƒLƒXƒg‚ðDMTƒpƒXƒpƒlƒ‹‚Öì‚é
-				‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo64,0,294,23p‚É•Ï‚¦‚é
-				‚»‚ÌsŠÔ‚ð16‚É•Ï‚¦‚é
-				‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-				‚»‚Ì”wŒiF‚ðu”’v‚É•Ï‚¦‚é
-				‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‘S‘Ìv‚É•Ï‚¦‚é
-			DMTƒpƒXŽQÆƒ{ƒ^ƒ“‚Æ‚¢‚¤ƒ{ƒ^ƒ“‚ðDMTƒpƒXƒpƒlƒ‹‚Öì‚é
-				‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo358,0,30,34p‚É•Ï‚¦‚é
-				‚»‚Ì“à—e‚ðu...v‚É•Ï‚¦‚é
-				‚»‚ÌˆÚ“®‡‚ð1‚É•Ï‚¦‚é
-				‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-				‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu‰Ev‚É•Ï‚¦‚é
-			ƒ‰ƒxƒ‹1‚Æ‚¢‚¤ƒ‰ƒxƒ‹‚ðDMTƒpƒXƒpƒlƒ‹‚Öì‚é
-				‚»‚ÌˆÊ’u‚Æ‘å‚«‚³‚ðo0,0,64,34p‚É•Ï‚¦‚é
-				‚»‚Ì“à—e‚ðuDMT.exev‚É•Ï‚¦‚é
-				‚»‚ÌƒtƒHƒ“ƒg‚ðuYu Gothic UI,9v‚É•Ï‚¦‚é
-				‚»‚Ì•¶Žš”z’u‚ðu‰Ev‚É•Ï‚¦‚é
-				‚»‚ÌˆÚ“®‡‚ð2‚É•Ï‚¦‚é
-				‚»‚ÌƒhƒbƒLƒ“ƒO•ûŒü‚ðu¶v‚É•Ï‚¦‚é
-		‰Šú‰»I—¹‚·‚é
-I‚í‚è
-	ŠJ‚¢‚½Žž‚ÌŽè‡
-		DMTƒpƒX=ƒƒCƒ“Ý’è‚É‚Â‚¢‚ÄuDMTv‚©‚çuPathv‚ðŽæ“¾‚µ‚½‚à‚Ì
-		DMTƒpƒXƒeƒLƒXƒg‚Ì“à—e=DMTƒpƒX
+	ãƒ¼ãƒ¼è²¼ã‚Šä»˜ã‘ãŸéƒ¨å“ã«å¯¾ã™ã‚‹æ“ä½œã‚’ã“ã“ã«æ›¸ãã¾ã™
+çµ‚ã‚ã‚Š
+	åˆæœŸåŒ–ã™ã‚‹æ‰‹é †
+	ãƒ¼ãƒ¼è‡ªå‹•ç”Ÿæˆã•ã‚ŒãŸæ‰‹é †ã§ã™ã€‚ã“ã“ã«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’æ›¸ãåŠ ãˆã¦ã‚‚æ¶ˆãˆã‚‹å ´åˆãŒã‚ã‚Šã¾ã™
+		ã“ã®å®Ÿè³ªå¤§ãã•ã‚’ï½›394,341ï½ã«å¤‰ãˆã‚‹
+		ã“ã®ç¨®é¡žã‚’ã€Œå›ºå®šã€ã«å¤‰ãˆã‚‹
+		ã“ã®æœ€å¤§åŒ–ãƒœã‚¿ãƒ³ã‚’Ã—ã«å¤‰ãˆã‚‹
+		ã“ã®åˆæœŸä½ç½®ã‚’ã€Œä¸­å¤®ã€ã«å¤‰ãˆã‚‹
+		ã“ã®å†…å®¹ã‚’ã€Œãƒ¡ã‚¤ãƒ³ç”»é¢ã€ã«å¤‰ãˆã‚‹
+		ã“ã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+		ã“ã®ä½™ç™½ã‚’ï½›3ï½ã«å¤‰ãˆã‚‹
+		åˆæœŸåŒ–é–‹å§‹ã™ã‚‹
+		çŠ¶æ…‹ãƒ©ãƒ™ãƒ«ã¨ã„ã†ãƒ©ãƒ™ãƒ«ã‚’ä½œã‚‹
+			ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›3,37,388,158ï½ã«å¤‰ãˆã‚‹
+			ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9,å¤ªå­—ã€ã«å¤‰ãˆã‚‹
+			ãã®ç§»å‹•é †ã‚’3ã«å¤‰ãˆã‚‹
+			ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œå…¨ä½“ã€ã«å¤‰ãˆã‚‹
+			ãã®ä½™ç™½ã‚’ï½›3,6,3,6ï½ã«å¤‰ãˆã‚‹
+		çŠ¶æ…‹ãƒ©ãƒ™ãƒ«2ã¨ã„ã†ãƒ©ãƒ™ãƒ«ã‚’ä½œã‚‹
+			ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›3,195,388,23ï½ã«å¤‰ãˆã‚‹
+			ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9,å¤ªå­—ã€ã«å¤‰ãˆã‚‹
+			ãã®æ–‡å­—é…ç½®ã‚’ã€Œä¸­å¤®ã€ã«å¤‰ãˆã‚‹
+			ãã®ç§»å‹•é †ã‚’4ã«å¤‰ãˆã‚‹
+			ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œä¸‹ã€ã«å¤‰ãˆã‚‹
+			ãã®ä½™ç™½ã‚’ï½›3ï½ã«å¤‰ãˆã‚‹
+		ãƒ‘ãƒãƒ«1ã¨ã„ã†ãƒ‘ãƒãƒ«ã‚’ä½œã‚‹
+			ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›3,218,388,120ï½ã«å¤‰ãˆã‚‹
+			ãã®ç§»å‹•é †ã‚’2ã«å¤‰ãˆã‚‹
+			ãã®è‡ªå‹•èª¿æ•´ã‚’â—‹ã«å¤‰ãˆã‚‹
+			ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+			ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œä¸‹ã€ã«å¤‰ãˆã‚‹
+			æœ‰åŠ¹åŒ–ãƒœã‚¿ãƒ³ã¨ã„ã†ãƒœã‚¿ãƒ³ã‚’ãƒ‘ãƒãƒ«1ã¸ä½œã‚‹
+				ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›0,0,388,40ï½ã«å¤‰ãˆã‚‹
+				ãã®å†…å®¹ã‚’ã€Œæ‰‹å‹•ã§æœ‰åŠ¹åŒ–ã€ã«å¤‰ãˆã‚‹
+				ãã®ç§»å‹•é †ã‚’2ã«å¤‰ãˆã‚‹
+				ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+				ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œä¸‹ã€ã«å¤‰ãˆã‚‹
+			ç„¡åŠ¹åŒ–ãƒœã‚¿ãƒ³ã¨ã„ã†ãƒœã‚¿ãƒ³ã‚’ãƒ‘ãƒãƒ«1ã¸ä½œã‚‹
+				ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›0,40,388,40ï½ã«å¤‰ãˆã‚‹
+				ãã®å†…å®¹ã‚’ã€Œæ‰‹å‹•ã§ç„¡åŠ¹åŒ–ã€ã«å¤‰ãˆã‚‹
+				ãã®ç§»å‹•é †ã‚’3ã«å¤‰ãˆã‚‹
+				ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+				ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œä¸‹ã€ã«å¤‰ãˆã‚‹
+			è¨­å®šãƒœã‚¿ãƒ³ã¨ã„ã†ãƒœã‚¿ãƒ³ã‚’ãƒ‘ãƒãƒ«1ã¸ä½œã‚‹
+				ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›0,80,388,40ï½ã«å¤‰ãˆã‚‹
+				ãã®å†…å®¹ã‚’ã€ŒDMTã®è¨­å®šã‚’é–‹ãã€ã«å¤‰ãˆã‚‹
+				ãã®ç§»å‹•é †ã‚’4ã«å¤‰ãˆã‚‹
+				ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+				ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œä¸‹ã€ã«å¤‰ãˆã‚‹
+		DMTãƒ‘ã‚¹ãƒ‘ãƒãƒ«ã¨ã„ã†ãƒ‘ãƒãƒ«ã‚’ä½œã‚‹
+			ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›3,3,388,34ï½ã«å¤‰ãˆã‚‹
+			ãã®ç§»å‹•é †ã‚’5ã«å¤‰ãˆã‚‹
+			ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+			ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œä¸Šã€ã«å¤‰ãˆã‚‹
+			DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã¨ã„ã†ãƒ†ã‚­ã‚¹ãƒˆã‚’DMTãƒ‘ã‚¹ãƒ‘ãƒãƒ«ã¸ä½œã‚‹
+				ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›64,0,294,23ï½ã«å¤‰ãˆã‚‹
+				ãã®è¡Œé–“ã‚’16ã«å¤‰ãˆã‚‹
+				ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+				ãã®èƒŒæ™¯è‰²ã‚’ã€Œç™½ã€ã«å¤‰ãˆã‚‹
+				ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œå…¨ä½“ã€ã«å¤‰ãˆã‚‹
+			DMTãƒ‘ã‚¹å‚ç…§ãƒœã‚¿ãƒ³ã¨ã„ã†ãƒœã‚¿ãƒ³ã‚’DMTãƒ‘ã‚¹ãƒ‘ãƒãƒ«ã¸ä½œã‚‹
+				ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›358,0,30,34ï½ã«å¤‰ãˆã‚‹
+				ãã®å†…å®¹ã‚’ã€Œ...ã€ã«å¤‰ãˆã‚‹
+				ãã®ç§»å‹•é †ã‚’1ã«å¤‰ãˆã‚‹
+				ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+				ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œå³ã€ã«å¤‰ãˆã‚‹
+			ãƒ©ãƒ™ãƒ«1ã¨ã„ã†ãƒ©ãƒ™ãƒ«ã‚’DMTãƒ‘ã‚¹ãƒ‘ãƒãƒ«ã¸ä½œã‚‹
+				ãã®ä½ç½®ã¨å¤§ãã•ã‚’ï½›0,0,64,34ï½ã«å¤‰ãˆã‚‹
+				ãã®å†…å®¹ã‚’ã€ŒDMT.exeã€ã«å¤‰ãˆã‚‹
+				ãã®ãƒ•ã‚©ãƒ³ãƒˆã‚’ã€ŒYu Gothic UI,9ã€ã«å¤‰ãˆã‚‹
+				ãã®æ–‡å­—é…ç½®ã‚’ã€Œå³ã€ã«å¤‰ãˆã‚‹
+				ãã®ç§»å‹•é †ã‚’2ã«å¤‰ãˆã‚‹
+				ãã®ãƒ‰ãƒƒã‚­ãƒ³ã‚°æ–¹å‘ã‚’ã€Œå·¦ã€ã«å¤‰ãˆã‚‹
+		åˆæœŸåŒ–çµ‚äº†ã™ã‚‹
+çµ‚ã‚ã‚Š
+	é–‹ã„ãŸæ™‚ã®æ‰‹é †
+		DMTãƒ‘ã‚¹=ãƒ¡ã‚¤ãƒ³è¨­å®šã«ã¤ã„ã¦ã€ŒDMTã€ã‹ã‚‰ã€ŒPathã€ã‚’å–å¾—ã—ãŸã‚‚ã®
+		DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹=DMTãƒ‘ã‚¹
 		
-		// DMT‚ÌƒCƒ“ƒXƒg[ƒ‹Šm”F
-		‚à‚µDMTƒpƒX‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚µ‚È‚¢‚È‚ç
-			‚à‚µuDual Monitor Tools ‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚é‚±‚Æ‚ðŠm”F‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½...[‰üs]ƒ_ƒEƒ“ƒ[ƒhæ‚ðŠJ‚«‚Ü‚·‚©H[‰üs]Šù‚ÉƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚éê‡‚ÍA‚¢‚¢‚¦‚ð‘I‘ð‚µ‚Äƒtƒ@ƒCƒ‹ŽQÆƒEƒBƒ“ƒhƒE‚ðŠJ‚¢‚Ä‚­‚¾‚³‚¢Bv‚ðuŽ¿–âƒAƒCƒRƒ“v‚É‚µ‚Äu‚Í‚¢‚Æ‚¢‚¢‚¦v‚ÅŽ¿–â‚µ‚½‚à‚Ì‚ªu‚Í‚¢v‚È‚ç
-				u[ƒAƒvƒŠ‚ÌDMTƒ_ƒEƒ“ƒ[ƒhURL]v‚ðŠJ‚­
+		// DMTã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç¢ºèª
+		ã‚‚ã—DMTãƒ‘ã‚¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã—ãªã„ãªã‚‰
+			ã‚‚ã—ã€ŒDual Monitor Tools ãŒã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã§ãã¾ã›ã‚“ã§ã—ãŸ...[æ”¹è¡Œ]ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰å…ˆã‚’é–‹ãã¾ã™ã‹ï¼Ÿ[æ”¹è¡Œ]æ—¢ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¦ã„ã‚‹å ´åˆã¯ã€ã„ã„ãˆã‚’é¸æŠžã—ã¦ãƒ•ã‚¡ã‚¤ãƒ«å‚ç…§ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‹ã„ã¦ãã ã•ã„ã€‚ã€ã‚’ã€Œè³ªå•ã‚¢ã‚¤ã‚³ãƒ³ã€ã«ã—ã¦ã€Œã¯ã„ã¨ã„ã„ãˆã€ã§è³ªå•ã—ãŸã‚‚ã®ãŒã€Œã¯ã„ã€ãªã‚‰
+				ã€Œ[ã‚¢ãƒ—ãƒªã®DMTãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰URL]ã€ã‚’é–‹ã
 				
-			‚»‚¤‚Å‚È‚¯‚ê‚Î
-				DMTƒpƒXŽQÆƒ{ƒ^ƒ“‚ªƒNƒŠƒbƒN‚³‚ê‚½
-				‚à‚µDMTƒpƒX‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚µ‚È‚¢‚È‚ç
-					ŠJ‚¢‚½
-				‚à‚µI‚í‚è
+			ãã†ã§ãªã‘ã‚Œã°
+				DMTãƒ‘ã‚¹å‚ç…§ãƒœã‚¿ãƒ³ãŒã‚¯ãƒªãƒƒã‚¯ã•ã‚ŒãŸ
+				ã‚‚ã—DMTãƒ‘ã‚¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã—ãªã„ãªã‚‰
+					é–‹ã„ãŸ
+				ã‚‚ã—çµ‚ã‚ã‚Š
 				
-			‚à‚µI‚í‚è
-			Žè‡‚©‚ç”²‚¯o‚·
-		‚à‚µI‚í‚è
+			ã‚‚ã—çµ‚ã‚ã‚Š
+			æ‰‹é †ã‹ã‚‰æŠœã‘å‡ºã™
+		ã‚‚ã—çµ‚ã‚ã‚Š
 		
-		// DMT‚ª‹N“®‚µ‚Ä‚¢‚é‚©Šm”F ‹N“®‚µ‚Ä‚¢‚È‚¯‚ê‚ÎV‚½‚É‹N“®‚·‚é
-		‹N“®’†ƒvƒƒZƒXˆê——‚ðy‹N“®’†ƒvƒƒZƒXz‚Ö‚»‚ê‚¼‚êŒJ‚è•Ô‚·
-			‚à‚µ‹N“®’†ƒvƒƒZƒX‚Ì–¼‘O‚ªuDMTv‚È‚ç
-				DMTƒvƒƒZƒX=‹N“®’†ƒvƒƒZƒX
-			‚à‚µI‚í‚è
-		ŒJ‚è•Ô‚µI‚í‚è
+		// DMTãŒèµ·å‹•ã—ã¦ã„ã‚‹ã‹ç¢ºèª èµ·å‹•ã—ã¦ã„ãªã‘ã‚Œã°æ–°ãŸã«èµ·å‹•ã™ã‚‹
+		èµ·å‹•ä¸­ãƒ—ãƒ­ã‚»ã‚¹ä¸€è¦§ã‚’ã€èµ·å‹•ä¸­ãƒ—ãƒ­ã‚»ã‚¹ã€‘ã¸ãã‚Œãžã‚Œç¹°ã‚Šè¿”ã™
+			ã‚‚ã—èµ·å‹•ä¸­ãƒ—ãƒ­ã‚»ã‚¹ã®åå‰ãŒã€ŒDMTã€ãªã‚‰
+				DMTãƒ—ãƒ­ã‚»ã‚¹=èµ·å‹•ä¸­ãƒ—ãƒ­ã‚»ã‚¹
+			ã‚‚ã—çµ‚ã‚ã‚Š
+		ç¹°ã‚Šè¿”ã—çµ‚ã‚ã‚Š
 		
-		‚à‚µDMTƒvƒƒZƒX‚ª‹ó‚È‚ç
-			î•ñ‰¹‚ð–Â‚ç‚·
-			‚à‚µuDual Monitor Tools ‚ª‹N“®‚³‚ê‚Ä‚¢‚Ü‚¹‚ñI[‰üs]‹N“®‚µ‚Ü‚·‚©H[‰üs](‚¢‚¢‚¦‚ð‘I‘ð‚·‚é‚Æ [ƒvƒƒOƒ‰ƒ€‚Ìƒ^ƒCƒgƒ‹] ‚ÍI—¹‚µ‚Ü‚·)v‚ðuŽ¿–âƒAƒCƒRƒ“v‚É‚µ‚Äu‚Í‚¢‚Æ‚¢‚¢‚¦v‚ÅŽ¿–â‚µ‚½‚à‚Ì‚ªu‚Í‚¢v‚È‚ç
-				DMTƒvƒƒZƒX=u"[DMTƒpƒX]"v‚ð‹N“®‚µ‚½‚à‚Ì
-				1•b‘Ò‚Â
+		ã‚‚ã—DMTãƒ—ãƒ­ã‚»ã‚¹ãŒç©ºãªã‚‰
+			æƒ…å ±éŸ³ã‚’é³´ã‚‰ã™
+			ã‚‚ã—ã€ŒDual Monitor Tools ãŒèµ·å‹•ã•ã‚Œã¦ã„ã¾ã›ã‚“ï¼[æ”¹è¡Œ]èµ·å‹•ã—ã¾ã™ã‹ï¼Ÿ[æ”¹è¡Œ](ã„ã„ãˆã‚’é¸æŠžã™ã‚‹ã¨ [ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ã‚¿ã‚¤ãƒˆãƒ«] ã¯çµ‚äº†ã—ã¾ã™)ã€ã‚’ã€Œè³ªå•ã‚¢ã‚¤ã‚³ãƒ³ã€ã«ã—ã¦ã€Œã¯ã„ã¨ã„ã„ãˆã€ã§è³ªå•ã—ãŸã‚‚ã®ãŒã€Œã¯ã„ã€ãªã‚‰
+				DMTãƒ—ãƒ­ã‚»ã‚¹=ã€Œ"[DMTãƒ‘ã‚¹]"ã€ã‚’èµ·å‹•ã—ãŸã‚‚ã®
+				1ç§’å¾…ã¤
 				
-			‚»‚¤‚Å‚È‚¯‚ê‚Î
-				I—¹‚·‚é
+			ãã†ã§ãªã‘ã‚Œã°
+				çµ‚äº†ã™ã‚‹
 				
-			‚à‚µI‚í‚è
-		‚à‚µI‚í‚è
+			ã‚‚ã—çµ‚ã‚ã‚Š
+		ã‚‚ã—çµ‚ã‚ã‚Š
 		
-		‘Sƒ^ƒCƒ}[ŠJŽn‚·‚é
-	I‚í‚è
+		å…¨ã‚¿ã‚¤ãƒžãƒ¼é–‹å§‹ã™ã‚‹
+	çµ‚ã‚ã‚Š
 	
-	DMTƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ªŽžŠÔ‚É‚È‚Á‚½Žž‚ÌŽè‡
-		‚à‚µDMTƒvƒƒZƒX‚Ì‹N“®’†‚ª~‚È‚ç
-			XVƒ^ƒCƒ}[‚ð’âŽ~‚·‚é
-			Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ð’âŽ~‚·‚é
-			î•ñ‰¹‚ð–Â‚ç‚·
-			‚à‚µuDual Monitor Tools ‚ª‹N“®‚³‚ê‚Ä‚¢‚Ü‚¹‚ñI[‰üs]‹N“®‚µ‚Ü‚·‚©H[‰üs](‚¢‚¢‚¦‚ð‘I‘ð‚·‚é‚Æ [ƒvƒƒOƒ‰ƒ€‚Ìƒ^ƒCƒgƒ‹] ‚ÍI—¹‚µ‚Ü‚·)v‚ðuŽ¿–âƒAƒCƒRƒ“v‚É‚µ‚Äu‚Í‚¢‚Æ‚¢‚¢‚¦v‚ÅŽ¿–â‚µ‚½‚à‚Ì‚ªu‚Í‚¢v‚È‚ç
-				DMTƒvƒƒZƒX=u"[DMTƒpƒX]"v‚ð‹N“®‚µ‚½‚à‚Ì
-				1•b‘Ò‚Â
-				XVƒ^ƒCƒ}[‚ðŠJŽn‚·‚é
-				Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ðŠJŽn‚·‚é
+	DMTãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ãŒæ™‚é–“ã«ãªã£ãŸæ™‚ã®æ‰‹é †
+		ã‚‚ã—DMTãƒ—ãƒ­ã‚»ã‚¹ã®èµ·å‹•ä¸­ãŒÃ—ãªã‚‰
+			æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼ã‚’åœæ­¢ã™ã‚‹
+			Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã‚’åœæ­¢ã™ã‚‹
+			æƒ…å ±éŸ³ã‚’é³´ã‚‰ã™
+			ã‚‚ã—ã€ŒDual Monitor Tools ãŒèµ·å‹•ã•ã‚Œã¦ã„ã¾ã›ã‚“ï¼[æ”¹è¡Œ]èµ·å‹•ã—ã¾ã™ã‹ï¼Ÿ[æ”¹è¡Œ](ã„ã„ãˆã‚’é¸æŠžã™ã‚‹ã¨ [ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ã‚¿ã‚¤ãƒˆãƒ«] ã¯çµ‚äº†ã—ã¾ã™)ã€ã‚’ã€Œè³ªå•ã‚¢ã‚¤ã‚³ãƒ³ã€ã«ã—ã¦ã€Œã¯ã„ã¨ã„ã„ãˆã€ã§è³ªå•ã—ãŸã‚‚ã®ãŒã€Œã¯ã„ã€ãªã‚‰
+				DMTãƒ—ãƒ­ã‚»ã‚¹=ã€Œ"[DMTãƒ‘ã‚¹]"ã€ã‚’èµ·å‹•ã—ãŸã‚‚ã®
+				1ç§’å¾…ã¤
+				æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼ã‚’é–‹å§‹ã™ã‚‹
+				Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã‚’é–‹å§‹ã™ã‚‹
 				
-			‚»‚¤‚Å‚È‚¯‚ê‚Î
-				I—¹‚·‚é
+			ãã†ã§ãªã‘ã‚Œã°
+				çµ‚äº†ã™ã‚‹
 				
-			‚à‚µI‚í‚è
-		‚à‚µI‚í‚è
-	I‚í‚è
+			ã‚‚ã—çµ‚ã‚ã‚Š
+		ã‚‚ã—çµ‚ã‚ã‚Š
+	çµ‚ã‚ã‚Š
 	
-	Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ªŽžŠÔ‚É‚È‚Á‚½Žž‚ÌŽè‡
-		// Apex Legends‚ª‹N“®‚µ‚Ä‚¢‚é‚©‚Â‘I‘ð‚µ‚Ä‚¢‚éê‡AƒJ[ƒ\ƒ‹‚ÌƒƒbƒN‚ð—LŒø‰»‚·‚é
-		—áŠOŠÄŽ‹
-			‚à‚µApexƒvƒƒZƒX‹N“®’†‚ª›‚È‚ç
-				‚à‚µƒvƒƒZƒXŠg’£‚Ì‘I‘ðƒvƒƒZƒX‚Ì–¼‘O‚ªur5apexv‚È‚ç
-					‚à‚µƒƒbƒN—LŒø‚ª›‚Å‚È‚¢‚È‚çƒƒbƒN—LŒø‰»‚·‚é
-					ApexƒvƒƒZƒXƒƒbƒZ[ƒW=u | Apex Legendsv
+	Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ãŒæ™‚é–“ã«ãªã£ãŸæ™‚ã®æ‰‹é †
+		// Apex LegendsãŒèµ·å‹•ã—ã¦ã„ã‚‹ã‹ã¤é¸æŠžã—ã¦ã„ã‚‹å ´åˆã€ã‚«ãƒ¼ã‚½ãƒ«ã®ãƒ­ãƒƒã‚¯ã‚’æœ‰åŠ¹åŒ–ã™ã‚‹
+		ä¾‹å¤–ç›£è¦–
+			ã‚‚ã—Apexãƒ—ãƒ­ã‚»ã‚¹èµ·å‹•ä¸­ãŒâ—‹ãªã‚‰
+				ã‚‚ã—ãƒ—ãƒ­ã‚»ã‚¹æ‹¡å¼µã®é¸æŠžãƒ—ãƒ­ã‚»ã‚¹ã®åå‰ãŒã€Œr5apexã€ãªã‚‰
+					ã‚‚ã—ãƒ­ãƒƒã‚¯æœ‰åŠ¹ãŒâ—‹ã§ãªã„ãªã‚‰ãƒ­ãƒƒã‚¯æœ‰åŠ¹åŒ–ã™ã‚‹
+					Apexãƒ—ãƒ­ã‚»ã‚¹ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸=ã€Œ | Apex Legendsã€
 					
-				‚»‚¤‚Å‚È‚¯‚ê‚Î
-					‚à‚µƒƒbƒN—LŒø‚ª~‚Å‚È‚¢‚È‚çƒƒbƒN–³Œø‰»‚·‚é
-					ApexƒvƒƒZƒXƒƒbƒZ[ƒW=uv
+				ãã†ã§ãªã‘ã‚Œã°
+					ã‚‚ã—ãƒ­ãƒƒã‚¯æœ‰åŠ¹ãŒÃ—ã§ãªã„ãªã‚‰ãƒ­ãƒƒã‚¯ç„¡åŠ¹åŒ–ã™ã‚‹
+					Apexãƒ—ãƒ­ã‚»ã‚¹ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸=ã€Œã€
 					
-				‚à‚µI‚í‚è
-			‚à‚µI‚í‚è
-		”­¶‚µ‚½ê‡
-		ŠÄŽ‹I‚í‚è
-	I‚í‚è
+				ã‚‚ã—çµ‚ã‚ã‚Š
+			ã‚‚ã—çµ‚ã‚ã‚Š
+		ç™ºç”Ÿã—ãŸå ´åˆ
+		ç›£è¦–çµ‚ã‚ã‚Š
+	çµ‚ã‚ã‚Š
 	
-	XVƒ^ƒCƒ}[‚ªŽžŠÔ‚É‚È‚Á‚½Žž‚ÌŽè‡
-		// Apex Legends‚ª‹N“®‚µ‚Ä‚¢‚é‚©ƒ`ƒFƒbƒN
-		—áŠOŠÄŽ‹
-			‚à‚µur5apexv‚ÌƒvƒƒZƒXˆê——‚ÌŒÂ”‚ª1ˆÈã‚È‚çApexƒvƒƒZƒX‹N“®’†=›
-		”­¶‚µ‚½ê‡
-			ApexƒvƒƒZƒX‹N“®’†=~
-		ŠÄŽ‹I‚í‚è
+	æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼ãŒæ™‚é–“ã«ãªã£ãŸæ™‚ã®æ‰‹é †
+		// Apex LegendsãŒèµ·å‹•ã—ã¦ã„ã‚‹ã‹ãƒã‚§ãƒƒã‚¯
+		ä¾‹å¤–ç›£è¦–
+			ã‚‚ã—ã€Œr5apexã€ã®ãƒ—ãƒ­ã‚»ã‚¹ä¸€è¦§ã®å€‹æ•°ãŒ1ä»¥ä¸Šãªã‚‰Apexãƒ—ãƒ­ã‚»ã‚¹èµ·å‹•ä¸­=â—‹
+		ç™ºç”Ÿã—ãŸå ´åˆ
+			Apexãƒ—ãƒ­ã‚»ã‚¹èµ·å‹•ä¸­=Ã—
+		ç›£è¦–çµ‚ã‚ã‚Š
 		
-		// ƒ‰ƒxƒ‹XV
-		—áŠOŠÄŽ‹
-			ƒƒCƒ“‰æ–Ê‚Ìó‘Ôƒ‰ƒxƒ‹‚Ì“à—e=uƒJ[ƒ\ƒ‹ƒƒbƒNó‘Ô: [ƒƒbƒN—LŒø]
+		// ãƒ©ãƒ™ãƒ«æ›´æ–°
+		ä¾‹å¤–ç›£è¦–
+			ãƒ¡ã‚¤ãƒ³ç”»é¢ã®çŠ¶æ…‹ãƒ©ãƒ™ãƒ«ã®å†…å®¹=ã€Œã‚«ãƒ¼ã‚½ãƒ«ãƒ­ãƒƒã‚¯çŠ¶æ…‹: [ãƒ­ãƒƒã‚¯æœ‰åŠ¹]
 
-ƒ‘I‘ð’†‚ÌƒvƒƒZƒX[ApexƒvƒƒZƒXƒƒbƒZ[ƒW]„
-ƒEƒBƒ“ƒhƒEƒ^ƒCƒgƒ‹: [‘I‘ðƒvƒƒZƒX‚Ìƒ^ƒCƒgƒ‹]
-–¼‘O: [‘I‘ðƒvƒƒZƒX‚Ì–¼‘O]
-PID: [‘I‘ðƒvƒƒZƒX‚ÌID]
+ï¼œé¸æŠžä¸­ã®ãƒ—ãƒ­ã‚»ã‚¹[Apexãƒ—ãƒ­ã‚»ã‚¹ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸]ï¼ž
+ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚¿ã‚¤ãƒˆãƒ«: [é¸æŠžãƒ—ãƒ­ã‚»ã‚¹ã®ã‚¿ã‚¤ãƒˆãƒ«]
+åå‰: [é¸æŠžãƒ—ãƒ­ã‚»ã‚¹ã®åå‰]
+PID: [é¸æŠžãƒ—ãƒ­ã‚»ã‚¹ã®ID]
 
-ƒDual Monitor Tools„
-‹N“®’†: [DMTƒvƒƒZƒX‚Ì‹N“®’†]
-PID: [DMTƒvƒƒZƒX‚ÌID]
+ï¼œDual Monitor Toolsï¼ž
+èµ·å‹•ä¸­: [DMTãƒ—ãƒ­ã‚»ã‚¹ã®èµ·å‹•ä¸­]
+PID: [DMTãƒ—ãƒ­ã‚»ã‚¹ã®ID]
 
-¦Apex Legends‚ª‹N“®‚µ‚Ä‚¢‚éŠÔ‚ÍŽè“®‚Å‚Ì—LŒø‰»/–³Œø‰»‚ª‚Å‚«‚Ü‚¹‚ñ¦v
-		”­¶‚µ‚½ê‡
-		ŠÄŽ‹I‚í‚è
-	I‚í‚è
+â€»Apex LegendsãŒèµ·å‹•ã—ã¦ã„ã‚‹é–“ã¯æ‰‹å‹•ã§ã®æœ‰åŠ¹åŒ–/ç„¡åŠ¹åŒ–ãŒã§ãã¾ã›ã‚“â€»ã€
+		ç™ºç”Ÿã—ãŸå ´åˆ
+		ç›£è¦–çµ‚ã‚ã‚Š
+	çµ‚ã‚ã‚Š
 	
-	‘Sƒ^ƒCƒ}[ŠJŽn‚·‚éŽè‡
-		DMTƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ðŠJŽn‚·‚é
-		Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ðŠJŽn‚·‚é
-		XVƒ^ƒCƒ}[‚ðŠJŽn‚·‚é
-	I‚í‚è
+	å…¨ã‚¿ã‚¤ãƒžãƒ¼é–‹å§‹ã™ã‚‹æ‰‹é †
+		DMTãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã‚’é–‹å§‹ã™ã‚‹
+		Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã‚’é–‹å§‹ã™ã‚‹
+		æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼ã‚’é–‹å§‹ã™ã‚‹
+	çµ‚ã‚ã‚Š
 	
-	‘Sƒ^ƒCƒ}[’âŽ~‚·‚éŽè‡
-		DMTƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ð’âŽ~‚·‚é
-		Apex‘I‘ðƒ`ƒFƒbƒNƒ^ƒCƒ}[‚ð’âŽ~‚·‚é
-		XVƒ^ƒCƒ}[‚ð’âŽ~‚·‚é
-	I‚í‚è
+	å…¨ã‚¿ã‚¤ãƒžãƒ¼åœæ­¢ã™ã‚‹æ‰‹é †
+		DMTãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã‚’åœæ­¢ã™ã‚‹
+		Apexé¸æŠžãƒã‚§ãƒƒã‚¯ã‚¿ã‚¤ãƒžãƒ¼ã‚’åœæ­¢ã™ã‚‹
+		æ›´æ–°ã‚¿ã‚¤ãƒžãƒ¼ã‚’åœæ­¢ã™ã‚‹
+	çµ‚ã‚ã‚Š
 	
-	ƒƒbƒN—LŒø‰»‚·‚éŽè‡
-		yŒ‹‰Êz=u"[DMTƒpƒX]"v‚ðu"DMT:Cursor:LockCursor"v‚Æ‚µ‚Ä‹N“®‚µ‚½‚à‚Ì
-		Œ‹‰Ê‚ð‘Ò‚Â
-		‚à‚µŒ‹‰Ê‚ÌI—¹ƒR[ƒh‚ª0‚È‚çƒƒbƒN—LŒø=›
-	I‚í‚è
+	ãƒ­ãƒƒã‚¯æœ‰åŠ¹åŒ–ã™ã‚‹æ‰‹é †
+		ã€çµæžœã€‘=ã€Œ"[DMTãƒ‘ã‚¹]"ã€ã‚’ã€Œ"DMT:Cursor:LockCursor"ã€ã¨ã—ã¦èµ·å‹•ã—ãŸã‚‚ã®
+		çµæžœã‚’å¾…ã¤
+		ã‚‚ã—çµæžœã®çµ‚äº†ã‚³ãƒ¼ãƒ‰ãŒ0ãªã‚‰ãƒ­ãƒƒã‚¯æœ‰åŠ¹=â—‹
+	çµ‚ã‚ã‚Š
 	
-	ƒƒbƒN–³Œø‰»‚·‚éŽè‡
-		yŒ‹‰Êz=u"[DMTƒpƒX]"v‚ðu"DMT:Cursor:FreeCursor"v‚Æ‚µ‚Ä‹N“®‚µ‚½‚à‚Ì
-		Œ‹‰Ê‚ð‘Ò‚Â
-		‚à‚µŒ‹‰Ê‚ÌI—¹ƒR[ƒh‚ª0‚È‚çƒƒbƒN—LŒø=›
-	I‚í‚è
+	ãƒ­ãƒƒã‚¯ç„¡åŠ¹åŒ–ã™ã‚‹æ‰‹é †
+		ã€çµæžœã€‘=ã€Œ"[DMTãƒ‘ã‚¹]"ã€ã‚’ã€Œ"DMT:Cursor:FreeCursor"ã€ã¨ã—ã¦èµ·å‹•ã—ãŸã‚‚ã®
+		çµæžœã‚’å¾…ã¤
+		ã‚‚ã—çµæžœã®çµ‚äº†ã‚³ãƒ¼ãƒ‰ãŒ0ãªã‚‰ãƒ­ãƒƒã‚¯æœ‰åŠ¹=â—‹
+	çµ‚ã‚ã‚Š
 	
-	—LŒø‰»ƒ{ƒ^ƒ“‚ªƒNƒŠƒbƒN‚³‚ê‚½Žž‚ÌŽè‡
-		ƒƒbƒN—LŒø‰»‚·‚é
-		//u^%9v‚ð“ü—Í‚·‚é
-		ó‘Ôƒ‰ƒxƒ‹2‚Ì“à—e=u—LŒø‰»v
-		1•b‘Ò‚Â
-		ó‘Ôƒ‰ƒxƒ‹2‚Ì“à—e=uv
-	I‚í‚è
+	æœ‰åŠ¹åŒ–ãƒœã‚¿ãƒ³ãŒã‚¯ãƒªãƒƒã‚¯ã•ã‚ŒãŸæ™‚ã®æ‰‹é †
+		ãƒ­ãƒƒã‚¯æœ‰åŠ¹åŒ–ã™ã‚‹
+		//ã€Œ^%9ã€ã‚’å…¥åŠ›ã™ã‚‹
+		çŠ¶æ…‹ãƒ©ãƒ™ãƒ«2ã®å†…å®¹=ã€Œæœ‰åŠ¹åŒ–ã€
+		1ç§’å¾…ã¤
+		çŠ¶æ…‹ãƒ©ãƒ™ãƒ«2ã®å†…å®¹=ã€Œã€
+	çµ‚ã‚ã‚Š
 	
-	–³Œø‰»ƒ{ƒ^ƒ“‚ªƒNƒŠƒbƒN‚³‚ê‚½Žž‚ÌŽè‡
-		ƒƒbƒN–³Œø‰»‚·‚é
-		//u^%0v‚ð“ü—Í‚·‚é
-		ó‘Ôƒ‰ƒxƒ‹2‚Ì“à—e=u–³Œø‰»v
-		1•b‘Ò‚Â
-		ó‘Ôƒ‰ƒxƒ‹2‚Ì“à—e=uv
-	I‚í‚è
+	ç„¡åŠ¹åŒ–ãƒœã‚¿ãƒ³ãŒã‚¯ãƒªãƒƒã‚¯ã•ã‚ŒãŸæ™‚ã®æ‰‹é †
+		ãƒ­ãƒƒã‚¯ç„¡åŠ¹åŒ–ã™ã‚‹
+		//ã€Œ^%0ã€ã‚’å…¥åŠ›ã™ã‚‹
+		çŠ¶æ…‹ãƒ©ãƒ™ãƒ«2ã®å†…å®¹=ã€Œç„¡åŠ¹åŒ–ã€
+		1ç§’å¾…ã¤
+		çŠ¶æ…‹ãƒ©ãƒ™ãƒ«2ã®å†…å®¹=ã€Œã€
+	çµ‚ã‚ã‚Š
 	
-	Ý’èƒ{ƒ^ƒ“‚ªƒNƒŠƒbƒN‚³‚ê‚½Žž‚ÌŽè‡
-		u"[DMTƒpƒX]"v‚ðu"DMT:General:Options"v‚Æ‚µ‚Ä‹N“®‚·‚é
-	I‚í‚è
+	è¨­å®šãƒœã‚¿ãƒ³ãŒã‚¯ãƒªãƒƒã‚¯ã•ã‚ŒãŸæ™‚ã®æ‰‹é †
+		ã€Œ"[DMTãƒ‘ã‚¹]"ã€ã‚’ã€Œ"DMT:General:Options"ã€ã¨ã—ã¦èµ·å‹•ã™ã‚‹
+	çµ‚ã‚ã‚Š
 	
-	DMTƒpƒXŽQÆƒ{ƒ^ƒ“‚ªƒNƒŠƒbƒN‚³‚ê‚½Žž‚ÌŽè‡
-		‘Sƒ^ƒCƒ}[’âŽ~‚·‚é
-		ŠJ‚­‰æ–Ê‚Ìƒ^ƒCƒgƒ‹‚ðuDual Monitor Tools ‚Ì.exeƒtƒ@ƒCƒ‹‚ð‘I‘ð‚µ‚Ä‚­‚¾‚³‚¢v‚É•Ï‚¦‚é
-		ŠJ‚­‰æ–Ê‚ÌŽí—Þ‚ðu.exeƒtƒ@ƒCƒ‹|DMT.exev‚É•Ï‚¦‚é
-		ŠJ‚­‰æ–Ê‚ÌƒpƒX‘¶ÝŠm”F‚ðu›v‚É•Ï‚¦‚é
-		ŠJ‚­‰æ–Ê‚Ì‘¶ÝŠm”F‚ðu›v‚É•Ï‚¦‚é
-		‚à‚µDMTƒpƒXƒeƒLƒXƒg‚Ì“à—e‚ª‹ó‚Å‚È‚¢‚©‚ÂDMTƒpƒXƒeƒLƒXƒg‚Ì“à—e‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚·‚é‚È‚ç•Û‘¶‰æ–Ê‚Ìƒtƒ@ƒCƒ‹–¼‚ðDMTƒpƒXƒeƒLƒXƒg‚Ì“à—e‚É•Ï‚¦‚é
-		ŠJ‚­‰æ–Ê‚ð•\Ž¦‚·‚é
-		‚à‚µŠJ‚­‰æ–Ê‚ÌƒLƒƒƒ“ƒZƒ‹‚Å‚È‚¯‚ê‚Î
-			DMTƒpƒXƒeƒLƒXƒg‚Ì“à—e‚ðu[ŠJ‚­‰æ–Ê‚Ìƒtƒ@ƒCƒ‹–¼]v‚É•Ï‚¦‚é
-		‚à‚µI‚í‚è
-		‘Sƒ^ƒCƒ}[ŠJŽn‚·‚é
-	I‚í‚è
+	DMTãƒ‘ã‚¹å‚ç…§ãƒœã‚¿ãƒ³ãŒã‚¯ãƒªãƒƒã‚¯ã•ã‚ŒãŸæ™‚ã®æ‰‹é †
+		å…¨ã‚¿ã‚¤ãƒžãƒ¼åœæ­¢ã™ã‚‹
+		é–‹ãç”»é¢ã®ã‚¿ã‚¤ãƒˆãƒ«ã‚’ã€ŒDual Monitor Tools ã®.exeãƒ•ã‚¡ã‚¤ãƒ«ã‚’é¸æŠžã—ã¦ãã ã•ã„ã€ã«å¤‰ãˆã‚‹
+		é–‹ãç”»é¢ã®ç¨®é¡žã‚’ã€Œ.exeãƒ•ã‚¡ã‚¤ãƒ«|DMT.exeã€ã«å¤‰ãˆã‚‹
+		é–‹ãç”»é¢ã®ãƒ‘ã‚¹å­˜åœ¨ç¢ºèªã‚’ã€Œâ—‹ã€ã«å¤‰ãˆã‚‹
+		é–‹ãç”»é¢ã®å­˜åœ¨ç¢ºèªã‚’ã€Œâ—‹ã€ã«å¤‰ãˆã‚‹
+		ã‚‚ã—DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹ãŒç©ºã§ãªã„ã‹ã¤DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã™ã‚‹ãªã‚‰ä¿å­˜ç”»é¢ã®ãƒ•ã‚¡ã‚¤ãƒ«åã‚’DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹ã«å¤‰ãˆã‚‹
+		é–‹ãç”»é¢ã‚’è¡¨ç¤ºã™ã‚‹
+		ã‚‚ã—é–‹ãç”»é¢ã®ã‚­ãƒ£ãƒ³ã‚»ãƒ«ã§ãªã‘ã‚Œã°
+			DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹ã‚’ã€Œ[é–‹ãç”»é¢ã®ãƒ•ã‚¡ã‚¤ãƒ«å]ã€ã«å¤‰ãˆã‚‹
+		ã‚‚ã—çµ‚ã‚ã‚Š
+		å…¨ã‚¿ã‚¤ãƒžãƒ¼é–‹å§‹ã™ã‚‹
+	çµ‚ã‚ã‚Š
 	
-	DMTƒpƒXƒeƒLƒXƒg‚Ì“à—e‚ª•Ï‰»‚µ‚½Žž‚ÌŽè‡
-		ƒƒCƒ“Ý’è‚É‚Â‚¢‚ÄuDMTv‚ÅuPathv‚Öu[DMTƒpƒXƒeƒLƒXƒg‚Ì“à—e]v‚ðÝ’è‚·‚é
-		DMTƒpƒX=DMTƒpƒXƒeƒLƒXƒg‚Ì“à—e
+	DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹ãŒå¤‰åŒ–ã—ãŸæ™‚ã®æ‰‹é †
+		ãƒ¡ã‚¤ãƒ³è¨­å®šã«ã¤ã„ã¦ã€ŒDMTã€ã§ã€ŒPathã€ã¸ã€Œ[DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹]ã€ã‚’è¨­å®šã™ã‚‹
+		DMTãƒ‘ã‚¹=DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®å†…å®¹
 		
-		—LŒø‰»ƒ{ƒ^ƒ“‚Ì—LŒø=DMTƒpƒX‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚·‚é
-		–³Œø‰»ƒ{ƒ^ƒ“‚Ì—LŒø=DMTƒpƒX‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚·‚é
-		Ý’èƒ{ƒ^ƒ“‚Ì—LŒø=DMTƒpƒX‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚·‚é
+		æœ‰åŠ¹åŒ–ãƒœã‚¿ãƒ³ã®æœ‰åŠ¹=DMTãƒ‘ã‚¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã™ã‚‹
+		ç„¡åŠ¹åŒ–ãƒœã‚¿ãƒ³ã®æœ‰åŠ¹=DMTãƒ‘ã‚¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã™ã‚‹
+		è¨­å®šãƒœã‚¿ãƒ³ã®æœ‰åŠ¹=DMTãƒ‘ã‚¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã™ã‚‹
 		
-		‚à‚µDMTƒpƒX‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ª‘¶Ý‚µ‚È‚¢‚È‚ç
-			DMTƒpƒXƒeƒLƒXƒg‚Ì”wŒiF=uOrangeRedv
-			DMTƒpƒXƒeƒLƒXƒg‚Ì•¶ŽšF=uWhitev
+		ã‚‚ã—DMTãƒ‘ã‚¹ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã—ãªã„ãªã‚‰
+			DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®èƒŒæ™¯è‰²=ã€ŒOrangeRedã€
+			DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®æ–‡å­—è‰²=ã€ŒWhiteã€
 			
-		‚»‚¤‚Å‚È‚¯‚ê‚Î
-			DMTƒpƒXƒeƒLƒXƒg‚Ì”wŒiF=uWhitev
-			DMTƒpƒXƒeƒLƒXƒg‚Ì•¶ŽšF=uBlackv
+		ãã†ã§ãªã‘ã‚Œã°
+			DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®èƒŒæ™¯è‰²=ã€ŒWhiteã€
+			DMTãƒ‘ã‚¹ãƒ†ã‚­ã‚¹ãƒˆã®æ–‡å­—è‰²=ã€ŒBlackã€
 			
-		‚à‚µI‚í‚è
-	I‚í‚è
-I‚í‚è
+		ã‚‚ã—çµ‚ã‚ã‚Š
+	çµ‚ã‚ã‚Š
+çµ‚ã‚ã‚Š
