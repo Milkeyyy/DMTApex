@@ -8,6 +8,7 @@
 	+引数
 	+コンフィグフォルダー
 	+DMTダウンロードURL
+	+設計スケール比率={96,96}
 	
 	はじめの手順
 		// プロジェクトファイルからアプリケーションの情報を取得
@@ -26,6 +27,6 @@
 		
 		コンフィグフォルダー=「[マイドキュメント][プログラムのタイトル]\」
 		
-		DMTダウンロードURL=「http://dualmonitortool.sourceforge.net/download.html」
+		DMTダウンロードURL=「https://sourceforge.net/projects/dualmonitortool/files/latest/download」
 	終わり
 終わり
