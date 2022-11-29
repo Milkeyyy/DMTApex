@@ -1,4 +1,4 @@
 # DMTApex
-Apex Legends をフルスクリーンでプレイしている時に、マウスカーソルが別のモニターに移動しないようにするアプリ
+Apex Legends をフルスクリーンでプレイしている時に、マウスカーソルが別のモニターに移動しないようにするアプリです。
 
-**詳細: https://milkeyyy.com/software/dmtapex**
+**詳細はこちら: https://milkeyyy.com/software/dmtapex**
